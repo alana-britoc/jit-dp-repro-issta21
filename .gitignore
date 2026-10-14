@@ -1,0 +1,20 @@
+# dados e artefatos pesados
+data/*
+!data/README.md
+third_party/*
+!third_party/README.md
+*.tar.gz
+*.pt
+*.pth
+*.pkl
+snapshot/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
+
+# sistema
+.DS_Store
