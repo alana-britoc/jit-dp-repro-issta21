@@ -18,3 +18,10 @@ __pycache__/
 
 # sistema
 .DS_Store
+
+# serena / mcp (config local)
+.mcp.json
+.serena/
+
+# artigo de referência (direitos autorais da ACM)
+issta2021.pdf
